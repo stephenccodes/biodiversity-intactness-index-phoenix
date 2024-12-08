@@ -3,11 +3,9 @@
 
 <img src="images/Arizona_Biodiversity.jpeg" width="800"/>
 
-Image credit: [azsustainabilityalliance.com] (https://www.azsustainabilityalliance.com/biodiversity-loss-in-arizona-what-we-can-do-about-it/)
+Image credit: [azsustainabilityalliance.com](https://www.azsustainabilityalliance.com/biodiversity-loss-in-arizona-what-we-can-do-about-it/)
 
-This repository holds the notebook `biodiversity_intactness_index.ipynb` which aims to visualize the parts of the Phoenix subdivision of Maricopa County, Arizona with an observed decrease in biodiversity. It uses Biodiver
-
-
+This repository holds the notebook `biodiversity_intactness_index.ipynb` which aims to visualize the parts of the Phoenix subdivision of Maricopa County, Arizona with an observed decrease in biodiversity. It uses biodiversity intactness index data and geospatial data to highlight changes to biodiversity in the area from 2017-2020. 
 
 ## Data
 
@@ -28,10 +26,11 @@ All materials were created by [Carmen Galaz-Garcia](https://github.com/carmengg)
 
 ```
 ├── data
-│   └── tl_2020_04_cousub.shp  # Arizona county boundary data
+│   └── arizona_lines.zip  # Arizona county boundary data
+├── images
+│   ├── Arizona_Biodiversity.jpeg
+│   └── Phainopepla_Arizona.jpg
 ├── .gitignore
 ├── README.md
 └── biodiversity_intactness_index_phoenix.ipynb # Jupyter notebooks for analysis
-
-Arizona_Biodiversity.jpeg
 ```
