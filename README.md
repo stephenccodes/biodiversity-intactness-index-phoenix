@@ -11,15 +11,17 @@ This repository holds the notebook `biodiversity_intactness_index.ipynb` which a
 
 All data used is housed locally within the repository in the `data` folder and was originally sourced from the sources listed below. 
 
+## Citations
+
+1. Microsoft.com, "Microsoft Planetary Computer."  2024,  Biodiversity Intactness STAC collection https://planetarycomputer.microsoft.com/dataset/io-biodiversity. Access date: December 4, 2024.
+    
+2. United States Census Bureau. (2024). Arizona County Subdivision 2024 TIGER/Line Shapefiles. [Data File]. U.S. Census Bureau, Geography Division. https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions Access date: December 4, 2024.
+    
+3. Z. Levitt and J. Eng, “Where America’s developed areas are growing: ‘Way off into the horizon’,” The Washington Post, Aug. 2021, Available: https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/. Accessed: December 4, 2024.
+
 ## Acknowledgments & References
 
 All materials were created by [Carmen Galaz-Garcia](https://github.com/carmengg) for [EDS-220: Working with Environmental Data](https://meds-eds-220.github.io/MEDS-eds-220-course/).
-
-1. U.S. Geological Survey. (n.d.). *Landsat 8-9 OLI/TIRS collection 2 level-2 science products | USGS EROS Archive*. U.S. Geological Survey. https://www.usgs.gov/centers/eros/science/usgs-eros-archive-landsat-archives-landsat-8-9-olitirs-collection-2-level-2 Access date: November 19, 2024.
-
-2. Data.gov. (2024). *California fire perimeters (ALL)*. Data.gov. https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436 Access date: November 19, 2024.
-
-3. Airnow.gov. (2017-2018).  *US Environmental Protection Agency.* [Air Quality Index (AQI)](https://www.airnow.gov/aqi/aqi-basics/) data from the [US Environmental Protection Agency](https://www.epa.gov)  Access date: October 26, 2024.
 
 
 ## Repository Organization
