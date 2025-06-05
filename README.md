@@ -1,10 +1,5 @@
 # Biodiversity Intactness in Phoenix
-### Changes in the Biodiversity Intactness Index Over Time
-
-# Biodiversity Intactness in Phoenix
 **_Changes in the Biodiversity Intactness Index Over Time_**
-
----
 
 
 <img src="images/Arizona_Biodiversity.jpeg" width="800"/>
