@@ -1,6 +1,10 @@
 # Biodiversity Intactness in Phoenix
 ### Changes in the Biodiversity Intactness Index Over Time
 
+<h1 style="margin-bottom: 0">Biodiversity Intactness in Phoenix</h1>
+<h3 style="margin-top: 0; font-weight: normal; color: gray;">Changes in the Biodiversity Intactness Index Over Time</h3>
+
+
 <img src="images/Arizona_Biodiversity.jpeg" width="800"/>
 
 Image credit: [azsustainabilityalliance.com](https://www.azsustainabilityalliance.com/biodiversity-loss-in-arizona-what-we-can-do-about-it/)
