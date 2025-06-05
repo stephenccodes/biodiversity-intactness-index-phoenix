@@ -1,5 +1,5 @@
-# Phoenix Biodiversity Intactness
-## Examining the Change in BII of the Phoenix Area
+# Biodiversity Intactness in Phoenix
+## Changes in the Biodiversity Intactness Index Over Time
 
 <img src="images/Arizona_Biodiversity.jpeg" width="800"/>
 
