@@ -1,8 +1,12 @@
 # Biodiversity Intactness in Phoenix
 ### Changes in the Biodiversity Intactness Index Over Time
 
-<h1 style="margin-bottom: 0">Biodiversity Intactness in Phoenix</h1>
-<h3 style="margin-top: 0; font-weight: normal; color: gray;">Changes in the Biodiversity Intactness Index Over Time</h3>
+<div style="text-align: left; line-height: 1.2; margin-bottom: 20px;">
+  <h1 style="margin: 0; font-size: 2.2em;">Biodiversity Intactness in Phoenix</h1>
+  <h3 style="margin: 0; font-weight: normal; color: #555; font-size: 1.2em;">
+    Trends and Changes in the Biodiversity Intactness Index Over Time
+  </h3>
+</div>
 
 
 <img src="images/Arizona_Biodiversity.jpeg" width="800"/>
